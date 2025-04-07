@@ -1,4 +1,5 @@
 streamlit==1.15.0
-opencv-python-headless==4.5.1.48
+opencv-python-headless==4.11.0.86
 deepface==0.0.75
 numpy==1.23.1
+tensorflow==2.11.0
