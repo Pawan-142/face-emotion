@@ -1,6 +1,5 @@
-altair
-streamlit==1.15.0
 opencv-python==4.11.0.86
 deepface==0.0.75
-numpy>=1.21.2
-tensorflow==2.19.0  
+tensorflow==2.19.0
+streamlit==1.15.0
+numpy==2.1.3
