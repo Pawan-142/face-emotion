@@ -3,6 +3,7 @@ opencv-python-headless==4.11.0.86
 deepface==0.0.93
 numpy==2.0.2
 tensorflow==2.19.0
+tf-keras
 mtcnn==0.1.1
 protobuf==5.29.4
 keras==2.15.0
