@@ -1,5 +1,5 @@
 streamlit==1.15.0
-opencv-python-headless==4.11.0.86
+opencv-python-headless==4.11.0.86  # Ensure this version is used.
 deepface==0.0.75
 numpy==1.23.1
 tensorflow==2.11.0
