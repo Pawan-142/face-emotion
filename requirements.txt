@@ -1,2 +1,4 @@
-opencv-python
-deepface
+streamlit==1.15.0
+opencv-python-headless==4.7.0.72
+deepface==0.0.75
+numpy==1.23.1
