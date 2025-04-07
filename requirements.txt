@@ -9,6 +9,6 @@ pandas==2.2.3
 pillow==11.1.0
 requests==2.32.3
 protobuf==5.29.4
-Pygments==2.19.1
-markdown-it-py==3.0.0
+Pygments
+markdown-it-py
 rich==14.0.0
