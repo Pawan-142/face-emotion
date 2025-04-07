@@ -1,8 +1,8 @@
-streamlit==1.44.1
-opencv-python-headless==4.11.0.86
-deepface==0.0.93
-numpy==2.0.2
+streamlit
+opencv-python-headless
+deepface
+numpy
 keras==2.15.0
 tf-keras
-mtcnn==0.1.1
-retinaface==0.0.9
+mtcnn
+retinaface
